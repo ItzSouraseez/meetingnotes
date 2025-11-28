@@ -45,8 +45,13 @@ Just three functions:
 
 ---
 
-## 🔗 Deployed Smart Contract Link
-(https://coston2-explorer.flare.network//tx/0xe6adf7b9cf33d48c2699f755419ea91d5c55b46c4a1d1f06ca3038e82b23e2bd)
+## ☎️ Contract Address: 
+From: 0x36cEc8E14026cCA3f8Fc885268dBa6bD16309DAd
+To: 0xCbf39C26feFdE81CEcA19300ACC32731E66CAAc5
+
+## 🔗 Explorer Address: (https://coston2-explorer.flare.network//tx/0xe6adf7b9cf33d48c2699f755419ea91d5c55b46c4a1d1f06ca3038e82b23e2bd)
+<img width="1800" height="1169" alt="Screenshot 2025-11-28 at 1 58 37 PM" src="https://github.com/user-attachments/assets/52fa13c1-7f7a-4aa2-8835-b6d404d8325b" />
+
 
 ---
 
